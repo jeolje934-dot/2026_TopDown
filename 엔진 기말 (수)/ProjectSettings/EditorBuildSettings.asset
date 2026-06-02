@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: 336c0a13bcb51f847a011b5f959456ba
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 01baeac8fbcbea04e851ea9ede6011ce
+  - enabled: 1
+    path: Assets/Scenes/Room3.unity
+    guid: 98c63afc00fdd914eafd7c28f3dbd3e2
+  - enabled: 1
+    path: Assets/Scenes/Room4.unity
+    guid: 75b76f64d4e30da48aea2792913cac2e
+  - enabled: 1
+    path: Assets/Scenes/BossRoom.unity
+    guid: cdaed360ec6dfc3408b9d23b0239bec8
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
