@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\",
+  "WorkspaceRootPath": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|d:\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\potmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\potmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|d:\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PotManager.cs",
+              "DocumentMoniker": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PotManager.cs",
+              "ToolTip": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PotManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PotManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:29:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Portal.cs",
-              "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\Portal.cs",
+              "DocumentMoniker": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\Portal.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Portal.cs",
-              "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\Portal.cs",
+              "ToolTip": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\Portal.cs",
               "RelativeToolTip": "Assets\\Script\\Portal.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T16:02:50.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
+              "DocumentMoniker": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
-              "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T15:17:28.955Z",
               "EditorCaption": ""

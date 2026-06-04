@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 7.0f;  //이동 속도
+    public float moveSpeed = 9.0f;  //이동 속도
     private Rigidbody2D rb;
     private Vector2 movement;
 
