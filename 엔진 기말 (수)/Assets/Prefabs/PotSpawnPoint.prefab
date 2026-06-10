@@ -101,6 +101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8445361491877550909}
+  - component: {fileID: 5604669662627566771}
   m_Layer: 0
   m_Name: PotSpawnPoint
   m_TagString: Untagged
@@ -124,3 +125,20 @@ Transform:
   - {fileID: 2010276738438137464}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5604669662627566771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6636858662826006214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c51bd476383c88349915a0be798837f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Pot
+  health: 3
+  branchPrefab: {fileID: 5115986081381624502, guid: 27ca0dba5fe711a46bf9f1f483ffdc73,
+    type: 3}
+  enemyPrefab: {fileID: 1292484055708865066, guid: bb93b8a48d9ec1d4ab096db9dc1912cf,
+    type: 3}
