@@ -5420,6 +5420,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\uC801_0"
       objectReference: {fileID: 0}
+    - target: {fileID: 1292484055708865066, guid: bb93b8a48d9ec1d4ab096db9dc1912cf,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 5625534208952258852, guid: bb93b8a48d9ec1d4ab096db9dc1912cf,
         type: 3}
       propertyPath: m_SortingOrder
