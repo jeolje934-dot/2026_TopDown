@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:08:04.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

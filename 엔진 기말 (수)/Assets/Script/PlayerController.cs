@@ -6,25 +6,6 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
 
-    public int hp = 100;  // 플레이어 hp 100
-    public bool hasBranch = false; // 나뭇가지 소지 여부
-
-    public void TakeDamge(int amout)
-    {
-        hp -= amout;
-        Debug.Log("플레이어 체력: " + hp);
-        if (hp <= 0)
-            Debug.Log("플레이어 사밍");
-
-    }
-    // 나뭇가지를 획득했을 때 호출할 함수
-    public void EquipBranch()
-    {
-        hasBranch = true;
-        Debug.Log("나뭇가지를 장착했습니다!");
-    }
-
-
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
