@@ -20,3 +20,5 @@ public class BoxData : ScriptableObject
     public GameObject boxPrefab; // 상자 프리팹
     public int spawnCount = 15;  // 방마다 생성할 상자 개수
 }
+
+

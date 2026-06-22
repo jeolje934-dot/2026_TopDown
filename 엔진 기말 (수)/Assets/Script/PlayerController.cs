@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    
+
     void Update()
     {
         //입력 감지
@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
 
         //  대각선 이동시 속도가 빨라지는 것 방지 (정규화)
         movement = movement.normalized;
- 
+
     }
 
     private void FixedUpdate()
@@ -35,4 +35,6 @@ public class PlayerController : MonoBehaviour
         //물리 엔진을 통한 이동
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
+
 }
+
