@@ -74,3 +74,6 @@ public class BoxSpawner : MonoBehaviour
         File.WriteAllText(path, json);
     }
 }
+
+
+

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\bossroomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bossroomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\boxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|c:\\gameengine midterm\\2026_gameenginemidterm\\2026_gameenginemidterm\\midtrem_2026137005\\2026_topdown\\2026_topdown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\bossroomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bossroomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\boxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F72B512-0928-91CA-43F8-E2138A2121AD}|Assembly-CSharp.csproj|C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossRoomSpawner.cs",
+              "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BossRoomSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BossRoomSpawner.cs",
+              "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BossRoomSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\BossRoomSpawner.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:35:19.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BossRoomData.cs",
+              "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BossRoomData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BossRoomData.cs",
+              "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BossRoomData.cs",
+              "RelativeToolTip": "Assets\\Script\\BossRoomData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:34:23.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BoxData.cs",
               "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BoxData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BoxData.cs",
@@ -34,25 +68,23 @@
               "RelativeToolTip": "Assets\\Script\\BoxData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T06:02:05.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T06:02:05.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BoxSpawner.cs",
               "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BoxSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BoxSpawner.cs",
               "ToolTip": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\BoxSpawner.cs",
               "RelativeToolTip": "Assets\\Script\\BoxSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T05:45:44.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T05:45:44.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\GameEngine MidTerm\\2026_GameEngineMidTerm\\2026_GameEngineMidTerm\\MidTrem_2026137005\\2026_TopDown\\2026_TopDown\\\uC5D4\uC9C4 \uAE30\uB9D0 (\uC218)\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",

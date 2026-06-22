@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ffc8eaa0b6238747a441b31376f2ad9, type: 3}
+  m_Name: BossRoomData
+  m_EditorClassIdentifier: Assembly-CSharp::BossRoomData
+  obstaclePrefab: {fileID: 1747964917572518540, guid: 0b71e6ab1b8ac884e9e0c5a7e6c11056,
+    type: 3}
+  obstacleCount: 120
