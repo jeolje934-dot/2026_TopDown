@@ -65,7 +65,9 @@
     <Compile Include="Assets\Script\BossRoomSpawner.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\SpriteColorAnimation.cs" />
     <Compile Include="Assets\Script\MenuManager.cs" />
+    <Compile Include="Assets\Script\BGMManager.cs" />
     <Compile Include="Assets\Script\Portal.cs" />
+    <Compile Include="Assets\Script\BGMPLayer.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\CameraFollow.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\TopDownCharacterController.cs" />
     <Compile Include="Assets\Script\BossRoomData.cs" />
