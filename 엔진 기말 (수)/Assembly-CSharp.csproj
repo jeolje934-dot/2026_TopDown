@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\BoxSpawner.cs" />
     <Compile Include="Assets\Script\BossRoomSpawner.cs" />
+    <Compile Include="Assets\Script\Health.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\SpriteColorAnimation.cs" />
     <Compile Include="Assets\Script\MenuManager.cs" />
     <Compile Include="Assets\Script\BGMManager.cs" />
@@ -72,7 +73,9 @@
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\TopDownCharacterController.cs" />
     <Compile Include="Assets\Script\BossRoomData.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\PropsAltar.cs" />
+    <Compile Include="Assets\Script\EnemySpawner.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
+    <Compile Include="Assets\Script\EnemyController.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\StairsLayerTrigger.cs" />
     <Compile Include="Assets\Script\BoxData.cs" />
   </ItemGroup>
