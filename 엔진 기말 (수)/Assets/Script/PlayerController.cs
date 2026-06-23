@@ -4,8 +4,8 @@ public class PlayerController : MonoBehaviour
 {
     // --- 설정 값 ---
     public float moveSpeed = 9.0f;
-    public LayerMask boxLayer; // 인스펙터에서 'Box' 레이어를 체크하세요!
-    public AudioClip breakSound; // 효과음 파일 (인스펙터에서 드래그해서 넣으세요)
+    public LayerMask boxLayer; // 인스펙터에서 'Box' 레이어를 체크하기
+    public AudioClip breakSound; // 효과음 파일 
 
     // --- 변수 ---
     private Vector2 movement;
@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        // 1. 플레이어에 AudioSource 컴포넌트를 가져오거나 없으면 새로 추가합니다.
+        // 1. 플레이어에 AudioSource 컴포넌트를 가져오거나 없으면 새로 추가
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
         {
@@ -49,7 +49,7 @@ public class PlayerController : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(transform.position, dir, 1.2f, boxLayer);
 
         // --- 디버그용 선 그리기 (빨간색) ---
-        // Scene 창에서 빨간색 선이 상자에 닿는지 확인하세요!
+        // Scene 창에서 빨간색 선이 상자에 닿는지 확인!
         Debug.DrawRay(transform.position, dir * 1.2f, Color.red, 1.0f);
 
         if (hit.collider != null)

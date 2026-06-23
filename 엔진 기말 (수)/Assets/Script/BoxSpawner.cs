@@ -5,12 +5,12 @@ using System.Collections.Generic;
 
 public class BoxSpawner : MonoBehaviour
 {
-    public BoxData boxData;
+    public BoxData boxData;   // BoxData 타입의 데이터 상자(변수)를 선언
     public Tilemap groundTilemap;
 
     void Start()
     {
-        string filePath = Application.persistentDataPath + "/" + gameObject.scene.name + "_" + gameObject.name + ".json";
+        string filePath = Application.persistentDataPath + "/" + gameObject.scene.name + "_" + gameObject.name + ".json";   // 데이터가 저장될 전체 경로와 파일 이름을 만드는 코드
 
         if (File.Exists(filePath))
         {
@@ -26,6 +26,7 @@ public class BoxSpawner : MonoBehaviour
             SpawnAndSave(filePath);
         }
     }
+
 
     // 타일맵에서 랜덤한 위치 리스트를 가져오는 핵심 함수
     List<Vector3> GetRandomPositions()
